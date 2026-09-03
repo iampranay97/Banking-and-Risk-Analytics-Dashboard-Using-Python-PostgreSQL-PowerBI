@@ -61,7 +61,7 @@ Python was used for:
 * Exploratory Data Analysis (EDA) on default correlation across loan attributes
 
 **Python File:**
-`"03_Banking & Risk Analytics\03_data_cleaning.ipynb"`
+[03_data_cleaning.ipynb](03_data_cleaning.ipynb)
 
 ## SQL Analysis
 PostgreSQL was used for:
@@ -72,7 +72,7 @@ PostgreSQL was used for:
 * Identifying top loss-making loan purposes using analytical queries
 
 **SQL File:**
-`"03_Banking & Risk Analytics\04_banking_risk_analysis.sql"`
+[04_banking_risk_analysis.sql](04_banking_risk_analysis.sql)
 
 ## Power BI Dashboard
 The Power BI report contains three dedicated pages:
@@ -103,7 +103,7 @@ Focuses on vintage performance and financial metrics:
 * Multi-level Matrix: Grade breakdown of Loans, Disbursed Volume, Default Rate %, and Loss Exposure
 
 **Power BI File:**
-`"03_Banking & Risk Analytics\05_Banking_Risk_Analytics_Dashboard.pbix"`
+[05_Banking_Risk_Analytics_Dashboard.pbix](05_Banking_Risk_Analytics_Dashboard.pbix)
 
 
 ## Key KPIs
@@ -172,10 +172,10 @@ Focuses on vintage performance and financial metrics:
 ## Dashboard Preview
 
 ### Executive Portfolio Overview
-![Executive Portfolio Overview](screenshots/executive-portfolio-overview.png)
+![Executive Portfolio Overview](06_Page_1_Portfolio_Overview.png)
 
 ### Credit Risk & Loss Analytics
-![Credit Risk & Loss Analytics](screenshots/credit-risk-loss-analytics.png)
+![Credit Risk & Loss Analytics](07_Page_2_Credit_Risk_&_Loss_Analytics.png)
 
 ### Portfolio & Vintage Analytics
-![Portfolio & Vintage Analytics](screenshots/portfolio-vintage-analytics.png)
+![Portfolio & Vintage Analytics](08_Page_3_Portfolio_&_Vintage_Analytics.png)
